@@ -2,6 +2,11 @@
 =====
 本仓库包含一个用于 AimLab 自动瞄准演示的脚本 aimbot.py。该 README 说明如何在 Windows 环境下安装依赖并运行脚本，以及脚本的快捷键说明和建议的依赖版本。
 
+关于文件
+----
+train.py是用来训练模型的，将data=r'D:\pycharm\aimlab-ainbot\AimLab_ball.v1i.yolov8\data.yaml'改为你的地址。
+aimbot.py是自动瞄准脚本。
+
 注意
 ----
 - 脚本目前仅在 Windows 上测试（使用了 Win32 鼠标事件）。
